@@ -1,0 +1,52 @@
+﻿node.exe : npm warn 
+deprecated 
+three-mesh-bvh@0.7.8: 
+Deprecated due to 
+three.js version 
+incompatibility. Please 
+use v0.8.0, instead.
+At C:\Program 
+Files\nodejs\npm.ps1:29 
+char:3
++   & $NODE_EXE 
+$NPM_CLI_JS $args
++   ~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~
+    + CategoryInfo        
+      : NotSpecified: (n  
+  pm warn deprec...0.8.   
+ 0, instead.:String) [    
+], RemoteException
+    + FullyQualifiedError 
+   Id : NativeCommandErr  
+  or
+ 
+npm error code ETIMEDOUT
+npm error syscall connect
+npm error errno ETIMEDOUT
+npm error network request 
+to https://npm.greensock.c
+om/@gsap%2freact/-/react-2
+.1.1.tgz failed, reason: 
+connect ETIMEDOUT 
+104.131.8.206:443
+npm error network This is 
+a problem related to 
+network connectivity.
+npm error network In most 
+cases you are behind a 
+proxy or have bad network 
+settings.
+npm error network
+npm error network If you 
+are behind a proxy, 
+please make sure that the
+npm error network 'proxy' 
+config is set properly.  
+See: 'npm help config'
+npm error A complete log 
+of this run can be found 
+in: C:\Users\Lenovo\AppDat
+a\Local\npm-cache\_logs\20
+26-03-26T19_18_11_232Z-deb
+ug-0.log

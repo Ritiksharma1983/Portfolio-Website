@@ -6,9 +6,9 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          Enthusiastic and detail-oriented BCA student specializing in Artificial Intelligence and Machine
+          Learning, seeking a Back-End Developer Intern role. Proficient in HTML, CSS, C & JAVA with a 
+          strong foundation in building responsive web applications and performance optimization.
         </p>
       </div>
     </div>
